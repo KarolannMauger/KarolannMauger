@@ -1,7 +1,7 @@
 ## <div align="center">I'm Karolann, a motivated IT student 👩‍💻 excited to explore new technologies and grow my skill set!</div>  
   
 
-- 🔭 I’m currently working on [WhiteBox](https://github.com/KarolannMauger/KarolannMauger)  
+- 🔭 I’m currently working on [saPin-app](https://github.com/KarolannMauger/saPin-app)  
   
 
 - 🌱 I’m currently learning Swift and SwiftUI  
