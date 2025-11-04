@@ -1,10 +1,10 @@
 ## <div align="center">I'm Karolann, a motivated IT student 👩‍💻 excited to explore new technologies and grow my skill set!</div>  
   
 
-- 🔭 I’m currently working on [saPin-app](https://github.com/KarolannMauger/saPin-app)  
+- 🔭 I’m currently working on [Stranded](https://github.com/KarolannMauger/Stranded)  
   
 
-- 🌱 I’m currently learning Swift and SwiftUI  
+- 🌱 I’m currently learning Unity and Blender  
   
 
 - ❓ Ask me about anything related to my projects I’m working on  
