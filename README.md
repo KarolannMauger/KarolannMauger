@@ -1,10 +1,10 @@
 ## <div align="center">I'm Karolann, a motivated IT student 👩‍💻 excited to explore new technologies and grow my skill set!</div>  
   
 
-- 🔭 I’m currently working on [Stranded](https://github.com/KarolannMauger/Stranded) and [JobScope - API ](https://github.com/LoulouPlou/JobScope-API/)
+- 🔭 I’m currently working on [WearPark](https://github.com/KarolannMauger/WearPark-App)
   
 
-- 🌱 I’m currently learning Unity and Blender  
+- 🌱 I’m currently learning Flutter  
   
 
 - ❓ Ask me about anything related to my projects I’m working on  
