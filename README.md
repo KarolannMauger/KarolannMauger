@@ -1,10 +1,10 @@
 ## <div align="center">I'm Karolann, a motivated IT student 👩‍💻 excited to explore new technologies and grow my skill set!</div>  
   
 
-- 🔭 I’m currently working on [WearPark](https://github.com/KarolannMauger/WearPark-App)
+- 🔭 I’m currently working on [WearPark-App](https://github.com/KarolannMauger/WearPark-App), [WearPark-Backend](https://github.com/KarolannMauger/WearPark-Backend), [WearPark-Embedded](https://github.com/KarolannMauger/WearPark-Embedded) and [WearPark-ML](https://github.com/KarolannMauger/WearPark-ML)
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Flutter, Dart  
   
 
 - ❓ Ask me about anything related to my projects I’m working on  
