@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [WearPark-App](https://github.com/KarolannMauger/WearPark-App), [WearPark-Backend](https://github.com/KarolannMauger/WearPark-Backend), [WearPark-Embedded](https://github.com/KarolannMauger/WearPark-Embedded) and [WearPark-ML](https://github.com/KarolannMauger/WearPark-ML)
   
 
-- 🌱 I’m currently learning Flutter, Dart  
+- 🌱 I’m currently learning Flutter, Dart and PyTorch
   
 
 - ❓ Ask me about anything related to my projects I’m working on  
