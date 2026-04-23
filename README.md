@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [WearPark-App](https://github.com/KarolannMauger/WearPark-App), [WearPark-Backend](https://github.com/KarolannMauger/WearPark-Backend), [WearPark-Embedded](https://github.com/KarolannMauger/WearPark-Embedded) and [WearPark-ML](https://github.com/KarolannMauger/WearPark-ML)
   
 
-- 🌱 I’m currently learning Flutter, Dart and PyTorch
+- 🌱 I’m currently learning Flutter and PyTorch
   
 
-- ❓ Ask me about anything related to my projects I’m working on  
+- ❓ Ask me about anything related to my projects I’m working on
   
 
 <br/>  
@@ -30,9 +30,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/pytorch-3670A0?style=for-the-badge&logo=pytorch&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,6 +50,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -64,21 +67,22 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/KarolannMauger" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; />
 </a>
 <a href="https://linkedin.com/in/karolann-mauger" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; />
+</a>
+<a href="https://discord.gg/users/740575441529864223" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white />
+</a>
 </div>
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KarolannMauger&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karolannmauger&show_icons=true&count_private-tru&hide_border=true&theme=transparent" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolannMauger&hide_border=true&layout=compact" align="center" /></div>
-
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=KarolannMauger&limit=5&theme=dark&combine_all_yearly_contributions=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolannmauger&hide=Wolfram%20Language,%20Shell,%20CSS&langs_count=8" align="center" /></div>
 
 <br/>  
 
